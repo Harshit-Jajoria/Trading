@@ -1,0 +1,43 @@
+.wrapper_pageHead {
+  background: #1c1c1c;
+  color: white;
+  height: 100px;
+  display: grid;
+  grid-template-columns: 500px 1fr 500px;
+  place-items: center;
+  /* position: sticky; */
+}
+
+.wrapper_pageHead .pageHead_logoShort {
+  font-family: "Electrolize", sans-serif !important;
+  justify-self: flex-start;
+  margin: auto;
+  color: #434343;
+  font-size: 17pt;
+  font-weight: bold;
+}
+.wrapper_pageHead .pageHead_logoLong {
+  font-family: "Electrolize", sans-serif !important;
+  font-size: 30pt;
+}
+
+.smallestFont {
+  font-size: 10px;
+}
+
+.wrapper_pageHead .pageHead_socialLink {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  list-style: none;
+}
+.wrapper_pageHead .pageHead_socialLink .socialLink_link {
+  font-size: 24px;
+  padding: 10px;
+  color: white;
+}
+
+.selected-intro-btn {
+  border: 1px solid #00ffff !important;
+  color: #00ffff !important;
+}

@@ -1,0 +1,30 @@
+.user__form_input-grp {
+    gap: 5px;
+  }
+  
+  .user__form_input-grp-password {
+    padding: 8px 16px;
+    background-color: white;
+  }
+  .user__form_input-grp-password input {
+    outline: none;
+    border: none;
+    width: 100%;
+  }
+  
+  .user__form_input-grp label {
+    color: white;
+  }
+  .user__form_input-grp > input {
+    outline: none;
+    border: none;
+    padding: 8px 16px;
+  }
+  .user__form_input-grp select {
+    padding: 8px 10px;
+    margin-bottom: 10px;
+  }
+
+  .error{
+    color: red;
+  }

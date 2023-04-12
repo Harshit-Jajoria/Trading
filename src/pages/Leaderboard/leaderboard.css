@@ -1,0 +1,15 @@
+.wrapper_leaderBoard {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 20px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: white;
+  background-color: #202020;
+}
+
+.table-head-bg-color {
+  background-color: #666666;
+}

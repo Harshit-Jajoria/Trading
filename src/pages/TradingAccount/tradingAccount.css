@@ -1,0 +1,14 @@
+.wrapper_tradingAccount {
+  height: 100%;
+  max-width: 80vw;
+  padding: 40px 0;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  color: white;
+}
+
+.wrapper_tradingAccount .tradingAccount_table {
+  width: 100%;
+}

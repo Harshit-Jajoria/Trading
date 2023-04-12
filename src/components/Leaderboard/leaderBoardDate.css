@@ -1,0 +1,40 @@
+.cp-leaderBoardDate-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  align-items: stretch;
+}
+
+.cp-leaderBoardDate-container .container-top {
+  display: flex;
+  align-content: stretch;
+  justify-content: flex-start;
+}
+.cp-leaderBoardDate-container .container-top.year {
+  align-items: center;
+  margin-left: 400px;
+}
+
+.cp-leaderBoardDate-container .container-top .items {
+  background-color: #2e2e2e;
+  border: 1px solid #434343;
+  color: white;
+  width: 200px;
+  font-weight: bold;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.cp-leaderBoardDate-container .container-top .items.selected {
+  background-color: #666666;
+}
+.cp-leaderBoardDate-container .container-top .items.date-items {
+  width: 100px;
+}
+
+.cp-leaderBoardDate-container .container-top .items.date-items:hover {
+  background-color: #666666;
+}

@@ -1,0 +1,27 @@
+.cp__gamemode {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.cp__gamemode p {
+  font-size: 1.2rem;
+}
+
+.mode-btn {
+  border: 1px solid #434343;
+  background-color: #2e2e2e;
+  color: white;
+  padding: 8px;
+  width: 180px;
+  font-size: 11pt;
+}
+
+.mode-btn:hover {
+  color: cyan;
+  border-color: cyan;
+}
+.mode-btn.selected {
+  border: 1px solid #00ffff !important;
+  color: #00ffff !important;
+}

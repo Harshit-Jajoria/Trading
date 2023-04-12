@@ -1,0 +1,23 @@
+.reactTable-table {
+  background-color: #202020;
+  color: white;
+  font-size: 1.2rem;
+}
+.reactTable-table .reactTable-head {
+  /* background-color: #666666; */
+}
+.reactTable-table .reactTable-head th {
+  text-align: center;
+  padding: 7px;
+  background-color: #666666;
+}
+
+.reactTable-table .reactTable-body tr td {
+  padding: 7px;
+  text-align: center;
+  transition: all 0.3 ease;
+}
+
+.reactTable-table .reactTable-head th:not(.table-head-bg-color) {
+  background-color: transparent;
+}

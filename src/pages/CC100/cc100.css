@@ -1,0 +1,15 @@
+.wrapper_cc100 {
+  padding: 50px;
+  background-color: #161616;
+  color: #fff;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+td,
+th {
+  border: 1px solid #434343;
+  text-align: left;
+  padding: 8px;
+}

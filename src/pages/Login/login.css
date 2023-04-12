@@ -1,0 +1,71 @@
+.lyt__login {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  flex: 1;
+  margin: auto;
+  max-width: 50vw;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  background: #343434;
+  border: 1px solid #616161;
+}
+
+.lyt__login h1 {
+  color: white;
+  text-align: center;
+}
+.user__form {
+  gap: 10px;
+}
+
+.user__form_input-grp {
+  gap: 5px;
+}
+
+.user__form_input-grp-password {
+  padding: 8px 16px;
+  background-color: white;
+}
+.user__form_input-grp-password input {
+  outline: none;
+  border: none;
+  width: 100%;
+}
+
+.user__form_input-grp label {
+  color: white;
+}
+.user__form_input-grp > input {
+  outline: none;
+  border: none;
+  padding: 8px 16px;
+}
+.user__form_input-grp select {
+  padding: 8px 10px;
+  margin-bottom: 10px;
+}
+
+.user__form_link {
+  justify-content: space-between;
+}
+
+.user__form_link a {
+  color: #1890ff;
+}
+.user__form .user__form__button {
+  background-color: #c36e5d;
+  color: white;
+  border: none;
+  padding: 10px 24px;
+  width: max-content;
+  margin: 0 auto;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+}
+
+.user__form .user__form__button:hover {
+  background-color: #d97b69;
+}

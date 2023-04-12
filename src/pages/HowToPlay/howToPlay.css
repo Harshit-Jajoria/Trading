@@ -1,0 +1,1822 @@
+html {
+  scroll-padding-top: 200px;
+}
+
+.wrapper_howToPlay {
+  padding: 50px;
+  background-color: #161616;
+  color: #fff;
+}
+.IndexList {
+  padding: 20px 50px;
+}
+.IndexList li a {
+  color: white;
+}
+.IndexList li a:hover {
+  color: cyan;
+}
+.IndexList li:hover::marker {
+  color: cyan;
+}
+
+p {
+  line-height: 150%;
+}
+.T_C {
+  padding: 20px 50px;
+}
+
+.how_to_play_docs .link {
+  color: cyan !important;
+}
+
+.lst-kix_zd1o231x6iny-4 > li {
+  counter-increment: lst-ctn-kix_zd1o231x6iny-4;
+}
+
+.lst-kix_p7p5etd1a34r-8 > li {
+  counter-increment: lst-ctn-kix_p7p5etd1a34r-8;
+}
+
+.lst-kix_j8o26issiovz-7 > li {
+  counter-increment: lst-ctn-kix_j8o26issiovz-7;
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-0.start {
+  counter-reset: lst-ctn-kix_p7p5etd1a34r-0 0;
+}
+
+.lst-kix_b598ay1p5cq5-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-2.start {
+  counter-reset: lst-ctn-kix_j8o26issiovz-2 0;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-0.start {
+  counter-reset: lst-ctn-kix_zd1o231x6iny-0 0;
+}
+
+.lst-kix_b598ay1p5cq5-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_7mmbu2j5d01v-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-7 {
+  list-style-type: none;
+}
+
+.lst-kix_cdvzyw6k4jqz-0 > li {
+  counter-increment: lst-ctn-kix_cdvzyw6k4jqz-0;
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-6 {
+  list-style-type: none;
+}
+
+.lst-kix_b598ay1p5cq5-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-5 {
+  list-style-type: none;
+}
+
+.lst-kix_7mmbu2j5d01v-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_7mmbu2j5d01v-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-4 {
+  list-style-type: none;
+}
+
+.lst-kix_b598ay1p5cq5-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-1 {
+  list-style-type: none;
+}
+
+.lst-kix_7mmbu2j5d01v-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-6.start {
+  counter-reset: lst-ctn-kix_cdvzyw6k4jqz-6 0;
+}
+
+.how_to_play_docs ul.lst-kix_wc6x9eduxqlk-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_4ylcklsj8qz3-6 {
+  list-style-type: none;
+}
+
+.lst-kix_7mmbu2j5d01v-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_7mmbu2j5d01v-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_4ylcklsj8qz3-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_wc6x9eduxqlk-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_4ylcklsj8qz3-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_wc6x9eduxqlk-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_4ylcklsj8qz3-3 {
+  list-style-type: none;
+}
+
+.lst-kix_7mmbu2j5d01v-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_7mmbu2j5d01v-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ul.lst-kix_4ylcklsj8qz3-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_4ylcklsj8qz3-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_wc6x9eduxqlk-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_wc6x9eduxqlk-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_wc6x9eduxqlk-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-7.start {
+  counter-reset: lst-ctn-kix_j8o26issiovz-7 0;
+}
+
+.how_to_play_docs ul.lst-kix_4ylcklsj8qz3-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_wc6x9eduxqlk-5 {
+  list-style-type: none;
+}
+
+.lst-kix_7mmbu2j5d01v-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_zd1o231x6iny-2 > li {
+  counter-increment: lst-ctn-kix_zd1o231x6iny-2;
+}
+
+.how_to_play_docs ul.lst-kix_4ylcklsj8qz3-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_wc6x9eduxqlk-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-5.start {
+  counter-reset: lst-ctn-kix_zd1o231x6iny-5 0;
+}
+
+.how_to_play_docs ul.lst-kix_4ylcklsj8qz3-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_wc6x9eduxqlk-3 {
+  list-style-type: none;
+}
+
+.lst-kix_b598ay1p5cq5-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_b598ay1p5cq5-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_b598ay1p5cq5-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-3 {
+  list-style-type: none;
+}
+
+.lst-kix_b598ay1p5cq5-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_b598ay1p5cq5-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-5.start {
+  counter-reset: lst-ctn-kix_p7p5etd1a34r-5 0;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-7 {
+  list-style-type: none;
+}
+
+.lst-kix_zd1o231x6iny-0 > li {
+  counter-increment: lst-ctn-kix_zd1o231x6iny-0;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-8.start {
+  counter-reset: lst-ctn-kix_j8o26issiovz-8 0;
+}
+
+.lst-kix_zd1o231x6iny-6 > li {
+  counter-increment: lst-ctn-kix_zd1o231x6iny-6;
+}
+
+.lst-kix_p7p5etd1a34r-1 > li {
+  counter-increment: lst-ctn-kix_p7p5etd1a34r-1;
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-6.start {
+  counter-reset: lst-ctn-kix_p7p5etd1a34r-6 0;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-3.start {
+  counter-reset: lst-ctn-kix_j8o26issiovz-3 0;
+}
+
+.lst-kix_j8o26issiovz-5 > li {
+  counter-increment: lst-ctn-kix_j8o26issiovz-5;
+}
+
+.lst-kix_p7p5etd1a34r-4 > li {
+  counter-increment: lst-ctn-kix_p7p5etd1a34r-4;
+}
+
+.lst-kix_cdvzyw6k4jqz-2 > li {
+  counter-increment: lst-ctn-kix_cdvzyw6k4jqz-2;
+}
+
+.how_to_play_docs ul.lst-kix_c34amku421oq-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_c34amku421oq-6 {
+  list-style-type: none;
+}
+
+.lst-kix_6n2cxwix6xin-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_c34amku421oq-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-6.start {
+  counter-reset: lst-ctn-kix_j8o26issiovz-6 0;
+}
+
+.lst-kix_4ylcklsj8qz3-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_cdvzyw6k4jqz-0 > li:before {
+  content: "" counter(lst-ctn-kix_cdvzyw6k4jqz-0, decimal) ". ";
+}
+
+.lst-kix_6n2cxwix6xin-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs .lst-kix_glacmh1t3eid-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_cdvzyw6k4jqz-2 > li:before {
+  content: "" counter(lst-ctn-kix_cdvzyw6k4jqz-2, lower-roman) ". ";
+}
+
+.lst-kix_pmpfmti76bl5-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs .lst-kix_glacmh1t3eid-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_6n2cxwix6xin-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_6n2cxwix6xin-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_pmpfmti76bl5-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_p7p5etd1a34r-4 > li:before {
+  content: "" counter(lst-ctn-kix_p7p5etd1a34r-4, lower-latin) ". ";
+}
+
+.lst-kix_cdvzyw6k4jqz-8 > li:before {
+  content: "" counter(lst-ctn-kix_cdvzyw6k4jqz-8, lower-roman) ". ";
+}
+
+.lst-kix_zd1o231x6iny-2 > li:before {
+  content: "" counter(lst-ctn-kix_zd1o231x6iny-2, lower-roman) ". ";
+}
+
+.lst-kix_cdvzyw6k4jqz-6 > li:before {
+  content: "" counter(lst-ctn-kix_cdvzyw6k4jqz-6, decimal) ". ";
+}
+
+.lst-kix_p7p5etd1a34r-0 > li:before {
+  content: "" counter(lst-ctn-kix_p7p5etd1a34r-0, decimal) ". ";
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-1.start {
+  counter-reset: lst-ctn-kix_p7p5etd1a34r-1 0;
+}
+
+.lst-kix_p7p5etd1a34r-8 > li:before {
+  content: "" counter(lst-ctn-kix_p7p5etd1a34r-8, lower-roman) ". ";
+}
+
+.how_to_play_docs ul.lst-kix_8es8togc9jeg-6 {
+  list-style-type: none;
+}
+
+.lst-kix_zd1o231x6iny-4 > li:before {
+  content: "" counter(lst-ctn-kix_zd1o231x6iny-4, lower-latin) ". ";
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-4.start {
+  counter-reset: lst-ctn-kix_p7p5etd1a34r-4 0;
+}
+
+.how_to_play_docs ul.lst-kix_8es8togc9jeg-5 {
+  list-style-type: none;
+}
+
+.lst-kix_cdvzyw6k4jqz-4 > li:before {
+  content: "" counter(lst-ctn-kix_cdvzyw6k4jqz-4, lower-latin) ". ";
+}
+
+.how_to_play_docs ul.lst-kix_8es8togc9jeg-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_8es8togc9jeg-7 {
+  list-style-type: none;
+}
+
+.lst-kix_p7p5etd1a34r-2 > li:before {
+  content: "" counter(lst-ctn-kix_p7p5etd1a34r-2, lower-roman) ". ";
+}
+
+.lst-kix_pmpfmti76bl5-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_zd1o231x6iny-8 > li:before {
+  content: "" counter(lst-ctn-kix_zd1o231x6iny-8, lower-roman) ". ";
+}
+
+.lst-kix_4ylcklsj8qz3-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_8es8togc9jeg-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_6n2cxwix6xin-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_zd1o231x6iny-6 > li:before {
+  content: "" counter(lst-ctn-kix_zd1o231x6iny-6, decimal) ". ";
+}
+
+.lst-kix_pmpfmti76bl5-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_c34amku421oq-0 {
+  list-style-type: none;
+}
+
+.lst-kix_4ylcklsj8qz3-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ul.lst-kix_c34amku421oq-1 {
+  list-style-type: none;
+}
+
+.lst-kix_8es8togc9jeg-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-2.start {
+  counter-reset: lst-ctn-kix_cdvzyw6k4jqz-2 0;
+}
+
+.lst-kix_p7p5etd1a34r-6 > li:before {
+  content: "" counter(lst-ctn-kix_p7p5etd1a34r-6, decimal) ". ";
+}
+
+.how_to_play_docs ul.lst-kix_c34amku421oq-4 {
+  list-style-type: none;
+}
+
+.lst-kix_4ylcklsj8qz3-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_c34amku421oq-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_c34amku421oq-2 {
+  list-style-type: none;
+}
+
+.lst-kix_pmpfmti76bl5-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ul.lst-kix_c34amku421oq-3 {
+  list-style-type: none;
+}
+
+.lst-kix_1bc0m06c27z7-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-2.start {
+  counter-reset: lst-ctn-kix_zd1o231x6iny-2 0;
+}
+
+.lst-kix_wc6x9eduxqlk-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_p7p5etd1a34r-5 > li {
+  counter-increment: lst-ctn-kix_p7p5etd1a34r-5;
+}
+
+.lst-kix_cdvzyw6k4jqz-3 > li {
+  counter-increment: lst-ctn-kix_cdvzyw6k4jqz-3;
+}
+
+.lst-kix_wc6x9eduxqlk-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_j8o26issiovz-4 > li {
+  counter-increment: lst-ctn-kix_j8o26issiovz-4;
+}
+
+.lst-kix_1bc0m06c27z7-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_p7p5etd1a34r-0 > li {
+  counter-increment: lst-ctn-kix_p7p5etd1a34r-0;
+}
+
+.how_to_play_docs ul.lst-kix_n7pz79esb767-3 {
+  list-style-type: none;
+}
+
+.lst-kix_p7p5etd1a34r-6 > li {
+  counter-increment: lst-ctn-kix_p7p5etd1a34r-6;
+}
+
+.how_to_play_docs ul.lst-kix_n7pz79esb767-2 {
+  list-style-type: none;
+}
+
+.lst-kix_1bc0m06c27z7-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_n7pz79esb767-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_8es8togc9jeg-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_n7pz79esb767-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-2.start {
+  counter-reset: lst-ctn-kix_p7p5etd1a34r-2 0;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-1.start {
+  counter-reset: lst-ctn-kix_cdvzyw6k4jqz-1 0;
+}
+
+.how_to_play_docs ul.lst-kix_n7pz79esb767-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_8es8togc9jeg-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_b598ay1p5cq5-6 {
+  list-style-type: none;
+}
+
+.lst-kix_c34amku421oq-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ul.lst-kix_n7pz79esb767-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_8es8togc9jeg-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_b598ay1p5cq5-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_n7pz79esb767-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_8es8togc9jeg-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_b598ay1p5cq5-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_n7pz79esb767-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_8es8togc9jeg-3 {
+  list-style-type: none;
+}
+
+.lst-kix_cdvzyw6k4jqz-4 > li {
+  counter-increment: lst-ctn-kix_cdvzyw6k4jqz-4;
+}
+
+.lst-kix_j8o26issiovz-3 > li {
+  counter-increment: lst-ctn-kix_j8o26issiovz-3;
+}
+
+.lst-kix_1bc0m06c27z7-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs .lst-kix_glacmh1t3eid-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_zd1o231x6iny-0 > li:before {
+  content: "" counter(lst-ctn-kix_zd1o231x6iny-0, decimal) ". ";
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-5.start {
+  counter-reset: lst-ctn-kix_j8o26issiovz-5 0;
+}
+
+.how_to_play_docs .lst-kix_glacmh1t3eid-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_b598ay1p5cq5-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_b598ay1p5cq5-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-1.start {
+  counter-reset: lst-ctn-kix_zd1o231x6iny-1 0;
+}
+
+.how_to_play_docs ul.lst-kix_b598ay1p5cq5-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_n7pz79esb767-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_b598ay1p5cq5-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_b598ay1p5cq5-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_b598ay1p5cq5-1 {
+  list-style-type: none;
+}
+
+.lst-kix_c34amku421oq-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_wc6x9eduxqlk-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-3.start {
+  counter-reset: lst-ctn-kix_p7p5etd1a34r-3 0;
+}
+
+.how_to_play_docs ul.lst-kix_syw4hvexvxc1-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-0.start {
+  counter-reset: lst-ctn-kix_cdvzyw6k4jqz-0 0;
+}
+
+.how_to_play_docs ul.lst-kix_syw4hvexvxc1-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_syw4hvexvxc1-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_syw4hvexvxc1-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_syw4hvexvxc1-4 {
+  list-style-type: none;
+}
+
+.lst-kix_c34amku421oq-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ul.lst-kix_syw4hvexvxc1-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_syw4hvexvxc1-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_syw4hvexvxc1-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_syw4hvexvxc1-8 {
+  list-style-type: none;
+}
+
+.lst-kix_wc6x9eduxqlk-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_c34amku421oq-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_j8o26issiovz-2 > li:before {
+  content: "" counter(lst-ctn-kix_j8o26issiovz-2, lower-roman) ". ";
+}
+
+.lst-kix_j8o26issiovz-3 > li:before {
+  content: "" counter(lst-ctn-kix_j8o26issiovz-3, decimal) ". ";
+}
+
+.lst-kix_cdvzyw6k4jqz-1 > li {
+  counter-increment: lst-ctn-kix_cdvzyw6k4jqz-1;
+}
+
+.lst-kix_j8o26issiovz-4 > li:before {
+  content: "" counter(lst-ctn-kix_j8o26issiovz-4, lower-latin) ". ";
+}
+
+.lst-kix_zd1o231x6iny-3 > li {
+  counter-increment: lst-ctn-kix_zd1o231x6iny-3;
+}
+
+.lst-kix_j8o26issiovz-5 > li:before {
+  content: "" counter(lst-ctn-kix_j8o26issiovz-5, lower-roman) ". ";
+}
+
+.lst-kix_j8o26issiovz-7 > li:before {
+  content: "" counter(lst-ctn-kix_j8o26issiovz-7, lower-latin) ". ";
+}
+
+.lst-kix_j8o26issiovz-6 > li {
+  counter-increment: lst-ctn-kix_j8o26issiovz-6;
+}
+
+.lst-kix_n7pz79esb767-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_j8o26issiovz-6 > li:before {
+  content: "" counter(lst-ctn-kix_j8o26issiovz-6, decimal) ". ";
+}
+
+.lst-kix_j8o26issiovz-8 > li:before {
+  content: "" counter(lst-ctn-kix_j8o26issiovz-8, lower-roman) ". ";
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-3.start {
+  counter-reset: lst-ctn-kix_zd1o231x6iny-3 0;
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-8.start {
+  counter-reset: lst-ctn-kix_zd1o231x6iny-8 0;
+}
+
+.lst-kix_zd1o231x6iny-5 > li {
+  counter-increment: lst-ctn-kix_zd1o231x6iny-5;
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-8.start {
+  counter-reset: lst-ctn-kix_p7p5etd1a34r-8 0;
+}
+
+.lst-kix_j8o26issiovz-1 > li:before {
+  content: "" counter(lst-ctn-kix_j8o26issiovz-1, lower-latin) ". ";
+}
+
+.lst-kix_j8o26issiovz-0 > li:before {
+  content: "" counter(lst-ctn-kix_j8o26issiovz-0, decimal) ". ";
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-4.start {
+  counter-reset: lst-ctn-kix_cdvzyw6k4jqz-4 0;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-4.start {
+  counter-reset: lst-ctn-kix_j8o26issiovz-4 0;
+}
+
+.lst-kix_syw4hvexvxc1-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_syw4hvexvxc1-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_syw4hvexvxc1-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ul.lst-kix_1bc0m06c27z7-0 {
+  list-style-type: none;
+}
+
+.lst-kix_xpxxnvobqe0u-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_syw4hvexvxc1-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_xpxxnvobqe0u-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_8es8togc9jeg-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_xpxxnvobqe0u-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ul.lst-kix_1bc0m06c27z7-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_1bc0m06c27z7-6 {
+  list-style-type: none;
+}
+
+.lst-kix_8es8togc9jeg-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_1bc0m06c27z7-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_1bc0m06c27z7-8 {
+  list-style-type: none;
+}
+
+.lst-kix_8es8togc9jeg-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ul.lst-kix_1bc0m06c27z7-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_1bc0m06c27z7-2 {
+  list-style-type: none;
+}
+
+.lst-kix_xpxxnvobqe0u-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ul.lst-kix_1bc0m06c27z7-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_1bc0m06c27z7-4 {
+  list-style-type: none;
+}
+
+.lst-kix_8es8togc9jeg-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_8es8togc9jeg-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_xpxxnvobqe0u-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_n7pz79esb767-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_n7pz79esb767-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_cdvzyw6k4jqz-5 > li {
+  counter-increment: lst-ctn-kix_cdvzyw6k4jqz-5;
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-3.start {
+  counter-reset: lst-ctn-kix_cdvzyw6k4jqz-3 0;
+}
+
+.lst-kix_cdvzyw6k4jqz-8 > li {
+  counter-increment: lst-ctn-kix_cdvzyw6k4jqz-8;
+}
+
+.lst-kix_n7pz79esb767-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_n7pz79esb767-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_j8o26issiovz-2 > li {
+  counter-increment: lst-ctn-kix_j8o26issiovz-2;
+}
+
+.lst-kix_n7pz79esb767-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_n7pz79esb767-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_n7pz79esb767-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_syw4hvexvxc1-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_syw4hvexvxc1-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_syw4hvexvxc1-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_syw4hvexvxc1-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_xpxxnvobqe0u-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-4.start {
+  counter-reset: lst-ctn-kix_zd1o231x6iny-4 0;
+}
+
+.lst-kix_xpxxnvobqe0u-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_p7p5etd1a34r-7 > li {
+  counter-increment: lst-ctn-kix_p7p5etd1a34r-7;
+}
+
+.lst-kix_xpxxnvobqe0u-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_syw4hvexvxc1-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_xpxxnvobqe0u-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_j8o26issiovz-8 > li {
+  counter-increment: lst-ctn-kix_j8o26issiovz-8;
+}
+
+.lst-kix_n7pz79esb767-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_j8o26issiovz-1 > li {
+  counter-increment: lst-ctn-kix_j8o26issiovz-1;
+}
+
+.lst-kix_6n2cxwix6xin-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_4ylcklsj8qz3-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_p7p5etd1a34r-2 > li {
+  counter-increment: lst-ctn-kix_p7p5etd1a34r-2;
+}
+
+.lst-kix_cdvzyw6k4jqz-6 > li {
+  counter-increment: lst-ctn-kix_cdvzyw6k4jqz-6;
+}
+
+.lst-kix_4ylcklsj8qz3-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_pmpfmti76bl5-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_cdvzyw6k4jqz-1 > li:before {
+  content: "" counter(lst-ctn-kix_cdvzyw6k4jqz-1, lower-latin) ". ";
+}
+
+.lst-kix_p7p5etd1a34r-3 > li {
+  counter-increment: lst-ctn-kix_p7p5etd1a34r-3;
+}
+
+.how_to_play_docs ul.lst-kix_glacmh1t3eid-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_glacmh1t3eid-8 {
+  list-style-type: none;
+}
+
+.lst-kix_6n2cxwix6xin-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_cdvzyw6k4jqz-3 > li:before {
+  content: "" counter(lst-ctn-kix_cdvzyw6k4jqz-3, decimal) ". ";
+}
+
+.how_to_play_docs .lst-kix_glacmh1t3eid-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_6n2cxwix6xin-5 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_glacmh1t3eid-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_glacmh1t3eid-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_glacmh1t3eid-0 {
+  list-style-type: none;
+}
+
+.lst-kix_cdvzyw6k4jqz-7 > li {
+  counter-increment: lst-ctn-kix_cdvzyw6k4jqz-7;
+}
+
+.lst-kix_pmpfmti76bl5-7 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ul.lst-kix_glacmh1t3eid-5 {
+  list-style-type: none;
+}
+
+.lst-kix_j8o26issiovz-0 > li {
+  counter-increment: lst-ctn-kix_j8o26issiovz-0;
+}
+
+.how_to_play_docs ul.lst-kix_glacmh1t3eid-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs .lst-kix_glacmh1t3eid-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_glacmh1t3eid-3 {
+  list-style-type: none;
+}
+
+.lst-kix_zd1o231x6iny-1 > li:before {
+  content: "" counter(lst-ctn-kix_zd1o231x6iny-1, lower-latin) ". ";
+}
+
+.how_to_play_docs ol.lst-kix_p7p5etd1a34r-7.start {
+  counter-reset: lst-ctn-kix_p7p5etd1a34r-7 0;
+}
+
+.how_to_play_docs ul.lst-kix_glacmh1t3eid-4 {
+  list-style-type: none;
+}
+
+.lst-kix_p7p5etd1a34r-3 > li:before {
+  content: "" counter(lst-ctn-kix_p7p5etd1a34r-3, decimal) ". ";
+}
+
+.lst-kix_p7p5etd1a34r-5 > li:before {
+  content: "" counter(lst-ctn-kix_p7p5etd1a34r-5, lower-roman) ". ";
+}
+
+.lst-kix_zd1o231x6iny-8 > li {
+  counter-increment: lst-ctn-kix_zd1o231x6iny-8;
+}
+
+.lst-kix_cdvzyw6k4jqz-7 > li:before {
+  content: "" counter(lst-ctn-kix_cdvzyw6k4jqz-7, lower-latin) ". ";
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-5.start {
+  counter-reset: lst-ctn-kix_cdvzyw6k4jqz-5 0;
+}
+
+.lst-kix_zd1o231x6iny-3 > li:before {
+  content: "" counter(lst-ctn-kix_zd1o231x6iny-3, decimal) ". ";
+}
+
+.lst-kix_cdvzyw6k4jqz-5 > li:before {
+  content: "" counter(lst-ctn-kix_cdvzyw6k4jqz-5, lower-roman) ". ";
+}
+
+.lst-kix_p7p5etd1a34r-1 > li:before {
+  content: "" counter(lst-ctn-kix_p7p5etd1a34r-1, lower-latin) ". ";
+}
+
+.lst-kix_pmpfmti76bl5-3 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-8.start {
+  counter-reset: lst-ctn-kix_cdvzyw6k4jqz-8 0;
+}
+
+.lst-kix_zd1o231x6iny-5 > li:before {
+  content: "" counter(lst-ctn-kix_zd1o231x6iny-5, lower-roman) ". ";
+}
+
+.lst-kix_4ylcklsj8qz3-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_6n2cxwix6xin-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ul.lst-kix_7mmbu2j5d01v-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_7mmbu2j5d01v-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_7mmbu2j5d01v-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_7mmbu2j5d01v-2 {
+  list-style-type: none;
+}
+
+.lst-kix_8es8togc9jeg-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_7mmbu2j5d01v-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-1.start {
+  counter-reset: lst-ctn-kix_j8o26issiovz-1 0;
+}
+
+.lst-kix_zd1o231x6iny-7 > li:before {
+  content: "" counter(lst-ctn-kix_zd1o231x6iny-7, lower-latin) ". ";
+}
+
+.lst-kix_4ylcklsj8qz3-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_8es8togc9jeg-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_pmpfmti76bl5-1 > li:before {
+  content: "\0025cb  ";
+}
+
+.lst-kix_p7p5etd1a34r-7 > li:before {
+  content: "" counter(lst-ctn-kix_p7p5etd1a34r-7, lower-latin) ". ";
+}
+
+.how_to_play_docs ul.lst-kix_7mmbu2j5d01v-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_7mmbu2j5d01v-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_7mmbu2j5d01v-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs .lst-kix_4ylcklsj8qz3-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ul.lst-kix_7mmbu2j5d01v-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs .lst-kix_1bc0m06c27z7-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs .lst-kix_wc6x9eduxqlk-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs .lst-kix_zd1o231x6iny-1 > li {
+  counter-increment: lst-ctn-kix_zd1o231x6iny-1;
+}
+
+.how_to_play_docs .lst-kix_1bc0m06c27z7-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs .lst-kix_zd1o231x6iny-7 > li {
+  counter-increment: lst-ctn-kix_zd1o231x6iny-7;
+}
+
+.how_to_play_docs .lst-kix_wc6x9eduxqlk-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_6n2cxwix6xin-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_6n2cxwix6xin-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_6n2cxwix6xin-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_xpxxnvobqe0u-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_6n2cxwix6xin-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_xpxxnvobqe0u-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_6n2cxwix6xin-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_xpxxnvobqe0u-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_6n2cxwix6xin-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_xpxxnvobqe0u-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_xpxxnvobqe0u-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_xpxxnvobqe0u-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs .lst-kix_1bc0m06c27z7-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ul.lst-kix_xpxxnvobqe0u-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs .lst-kix_c34amku421oq-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ul.lst-kix_xpxxnvobqe0u-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs .lst-kix_1bc0m06c27z7-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs .lst-kix_1bc0m06c27z7-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-6.start {
+  counter-reset: lst-ctn-kix_zd1o231x6iny-6 0;
+}
+
+.how_to_play_docs ul.lst-kix_xpxxnvobqe0u-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ol.lst-kix_j8o26issiovz-0.start {
+  counter-reset: lst-ctn-kix_j8o26issiovz-0 0;
+}
+
+.how_to_play_docs .lst-kix_c34amku421oq-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ul.lst-kix_pmpfmti76bl5-0 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_pmpfmti76bl5-1 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_pmpfmti76bl5-2 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_pmpfmti76bl5-3 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_pmpfmti76bl5-4 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_pmpfmti76bl5-5 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_pmpfmti76bl5-6 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_pmpfmti76bl5-7 {
+  list-style-type: none;
+}
+
+.how_to_play_docs ul.lst-kix_pmpfmti76bl5-8 {
+  list-style-type: none;
+}
+
+.how_to_play_docs .lst-kix_glacmh1t3eid-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs .lst-kix_glacmh1t3eid-8 > li:before {
+  content: "\0025a0  ";
+}
+
+li.li-bullet-0:before {
+  margin-left: -18pt;
+  white-space: nowrap;
+  display: inline-block;
+  min-width: 18pt;
+}
+
+.how_to_play_docs .lst-kix_glacmh1t3eid-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ol.lst-kix_cdvzyw6k4jqz-7.start {
+  counter-reset: lst-ctn-kix_cdvzyw6k4jqz-7 0;
+}
+
+.how_to_play_docs ul.lst-kix_6n2cxwix6xin-1 {
+  list-style-type: none;
+}
+
+.lst-kix_wc6x9eduxqlk-6 > li:before {
+  content: "\0025cf  ";
+}
+
+.how_to_play_docs ul.lst-kix_6n2cxwix6xin-2 {
+  list-style-type: none;
+}
+
+.lst-kix_c34amku421oq-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ul.lst-kix_6n2cxwix6xin-0 {
+  list-style-type: none;
+}
+
+.lst-kix_wc6x9eduxqlk-8 > li:before {
+  content: "\0025a0  ";
+}
+
+.lst-kix_wc6x9eduxqlk-4 > li:before {
+  content: "\0025cb  ";
+}
+
+.how_to_play_docs ol.lst-kix_zd1o231x6iny-7.start {
+  counter-reset: lst-ctn-kix_zd1o231x6iny-7 0;
+}
+
+.lst-kix_c34amku421oq-0 > li:before {
+  content: "\0025cf  ";
+}
+
+.lst-kix_c34amku421oq-2 > li:before {
+  content: "\0025a0  ";
+}
+
+.how_to_play_docs ol {
+  margin: 0;
+  padding: 0;
+}
+
+.how_to_play_docs table td,
+table th {
+  padding: 0;
+}
+
+.how_to_play_docs .c1 {
+  color: #efefef;
+  font-weight: 400;
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 13pt;
+  line-height: 1.6;
+  font-style: normal;
+}
+
+.how_to_play_docs .c3 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1.15;
+  orphans: 2;
+  /* word-wrap: break-word; */
+  text-align: left;
+  margin-right: -72pt;
+  width: 98%;
+}
+
+.how_to_play_docs .c21 {
+  padding-top: 0pt;
+  padding-bottom: 0pt;
+  line-height: 1.15;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+.how_to_play_docs .c5 {
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 12pt;
+  font-style: normal;
+}
+
+.how_to_play_docs .c6 {
+  text-decoration: none;
+  vertical-align: baseline;
+  font-size: 13pt;
+  line-height: 1.6;
+  font-style: normal;
+}
+
+.how_to_play_docs .c14 {
+  text-decoration: none;
+  vertical-align: baseline;
+  font-style: normal;
+}
+
+.how_to_play_docs .c12 {
+  -webkit-text-decoration-skip: none;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+}
+
+.how_to_play_docs .c17 {
+  background-color: #202020;
+  /* max-width: 697.9pt; */
+  padding: 72pt 72pt 72pt 72pt;
+}
+
+.how_to_play_docs .c20 {
+  vertical-align: baseline;
+  font-style: normal;
+}
+
+.how_to_play_docs .c0 {
+  color: #efefef;
+  font-weight: 700;
+}
+
+.how_to_play_docs .c8 {
+  padding: 0;
+  margin: 0;
+}
+
+.how_to_play_docs .c7 {
+  margin-left: 36pt;
+  padding-left: 0pt;
+}
+
+.how_to_play_docs .c2 {
+  color: #efefef;
+  line-height: 1.5;
+}
+
+.how_to_play_docs .c4 {
+  height: 11pt;
+}
+
+.how_to_play_docs .c18 {
+  font-size: 18pt;
+}
+
+.how_to_play_docs .c15 {
+  font-size: 10pt;
+}
+
+.how_to_play_docs .c16 {
+  margin-left: 36pt;
+}
+
+.how_to_play_docs .c11 {
+  font-weight: 400;
+}
+
+.how_to_play_docs .c19 {
+  color: #000000;
+}
+
+.how_to_play_docs .c10 {
+  font-size: 14pt;
+}
+
+.how_to_play_docs .c13 {
+  font-size: 5pt;
+}
+
+.how_to_play_docs .c9 {
+  font-size: 12pt;
+}
+
+.how_to_play_docs .title {
+  padding-top: 0pt;
+  color: #000000;
+  font-size: 26pt;
+  padding-bottom: 3pt;
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+.how_to_play_docs.subtitle {
+  padding-top: 0pt;
+  color: #666666;
+  font-size: 15pt;
+  padding-bottom: 16pt;
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.how_to_play_docs li {
+  color: #ffffff;
+  font-size: 13pt;
+  line-height: 1.6;
+}
+.how_to_play_docs p {
+  margin: 0;
+  color: #000000;
+  font-size: 13pt;
+  line-height: 1.6;
+}
+.how_to_play_docs h1 {
+  padding-top: 20pt;
+  color: #000000;
+  font-size: 20pt;
+  padding-bottom: 6pt;
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.how_to_play_docs h2 {
+  padding-top: 18pt;
+  color: #000000;
+  font-size: 16pt;
+  padding-bottom: 6pt;
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.how_to_play_docs h3 {
+  padding-top: 16pt;
+  color: #434343;
+  font-size: 14pt;
+  padding-bottom: 4pt;
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.how_to_play_docs h4 {
+  padding-top: 14pt;
+  color: #666666;
+  font-size: 12pt;
+  padding-bottom: 4pt;
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.how_to_play_docs h5 {
+  padding-top: 12pt;
+  color: #666666;
+  font-size: 13pt;
+  line-height: 1.6;
+  padding-bottom: 4pt;
+  line-height: 1.15;
+  page-break-after: avoid;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+.how_to_play_docs h6 {
+  padding-top: 12pt;
+  color: #666666;
+  font-size: 13pt;
+  line-height: 1.6;
+  padding-bottom: 4pt;
+  line-height: 1.15;
+  page-break-after: avoid;
+  font-style: italic;
+  orphans: 2;
+  widows: 2;
+  text-align: left;
+}
+
+.how_to_play_docs .credits-table {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: white;
+  margin-top: 10px;
+}
+
+.how_to_play_docs .credits-table p {
+  color: white;
+  font-size: 12pt;
+}
+
+.how_to_play_docs .credits-table table {
+  width: max-content;
+}
+
+.how_to_play_docs .credits-table table tr > td:nth-child(1) {
+  background-color: #666666;
+}
+.how_to_play_docs .credits-table table td {
+  text-align: center;
+  padding: 8px;
+  font-size: 12pt;
+  border-color: #434343;
+  text-align: center;
+}
+
+.title_font_size {
+  font-size: 19pt !important;
+  line-height: 1.5;
+}

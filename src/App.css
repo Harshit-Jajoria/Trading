@@ -1,0 +1,50 @@
+/* Common CSS */
+
+.d-flex--c {
+  display: flex;
+  flex-direction: column;
+}
+
+.c-white {
+  color: white;
+}
+
+.gap-10 {
+  gap: 10px;
+}
+
+.w-100 {
+  width: 100%;
+}
+.w-10 {
+  width: 10%;
+}
+
+.j-center {
+  justify-content: center;
+}
+
+.margin_bottom-20 {
+  margin-bottom: 20px;
+}
+
+.null-btn {
+  background: transparent;
+  border: none;
+}
+
+.sticky-head {
+  position: sticky;
+  width: 100%;
+  z-index: 100;
+  top: 0;
+}
+
+.app-lyt-main {
+  flex: 1;
+}
+
+.app-lyt-wrapper {
+  display: flex;
+  flex-direction: column;
+}
